@@ -1,0 +1,150 @@
+5 0 None
+6 0 ['N/A']
+15 0 ['Employee']
+16 0 ['Employee']
+20 0 None
+21 0 ['Director']
+47 0 ['N/A']
+64 0 ['Trader']
+77 0 ['Manager']
+121 0 ['N/A']
+131 0 ['Director']
+2 1 ['Employee']
+3 1 ['Employee']
+4 1 ['N/A']
+35 1 None
+50 1 ['Vice President']
+52 1 ['CEO']
+53 1 None
+54 1 ['Vice President']
+56 1 ['CEO']
+58 1 None
+66 1 ['Manager', 'Chief Risk Management Officer']
+71 1 ['N/A']
+75 1 ['Vice President']
+76 1 ['Trader']
+79 1 None
+80 1 ['Employee']
+83 1 ['Employee']
+86 1 ['In House Lawyer']
+87 1 None
+88 1 ['N/A']
+92 1 ['Manager']
+94 1 None
+95 1 ['Employee']
+112 1 ['President', 'Enron Global Mkts']
+117 1 None
+126 1 ['N/A']
+128 1 ['Manager', 'Risk Management Head']
+129 1 ['Manager']
+130 1 ['Employee']
+138 1 None
+140 1 ['Employee']
+141 1 ['Managing Director', 'Legal Department']
+143 1 ['N/A']
+146 1 ['N/A']
+148 1 ['CEO', 'Enron North America and Enron Enery Services']
+29 2 ['Vice President', 'Term']
+44 2 ['Manager']
+65 2 ['Trader']
+74 2 ['Employee', 'Associate']
+81 2 ['Employee', 'Senior Specialist Logistics']
+82 2 ['Manager']
+89 2 ['Trader']
+91 2 ['Vice President', 'Enery marketting and trading Florida']
+108 2 ['Trader']
+123 2 ['Manager']
+124 2 ['Director']
+134 2 ['Vice President']
+136 2 None
+137 2 ['Employee', 'Senior Specialist']
+139 2 ['Manager', 'Real time Trading Desk']
+24 3 ['Vice President', 'Regulatory Affairs']
+62 3 None
+93 3 ['Director']
+142 3 ['Vice President', 'Enron WholeSale Services']
+144 3 ['Vice President', 'Vice President & Chief of Staff']
+145 3 ['Vice President', 'Government Affairs']
+25 4 ['Employee']
+26 4 ['Employee']
+36 4 None
+38 4 ['N/A']
+46 4 ['Managing Director']
+59 4 ['Director']
+63 4 ['Employee']
+78 4 ['Employee']
+120 4 ['N/A']
+133 4 ['Director']
+27 5 ['Trader']
+30 5 ['Trader']
+115 5 ['Vice President']
+116 5 ['Manager', 'Logistics Manager']
+125 5 ['N/A']
+127 5 ['N/A']
+7 6 ['N/A']
+9 6 ['Employee']
+11 6 None
+12 6 ['N/A']
+14 6 None
+1 7 ['Vice President']
+37 7 ['Employee']
+43 7 ['Manager', 'Regulatory Affairs']
+114 7 None
+22 8 ['Vice President']
+28 9 ['Employee']
+34 9 ['Employee']
+39 9 ['Employee']
+45 9 ['Director']
+70 9 ['Director']
+85 9 ['Manager']
+110 9 None
+132 9 ['N/A']
+42 10 None
+60 10 ['N/A']
+84 10 ['Employee', 'Administrative Asisstant']
+113 10 None
+18 11 ['President', 'Enron Online']
+32 11 ['Employee', 'Chief Operating Officer']
+55 11 None
+111 11 None
+119 11 ['Vice President']
+33 12 None
+67 12 None
+68 12 ['Director']
+13 13 ['N/A']
+17 13 ['Vice President']
+40 13 ['Employee']
+73 13 ['N/A']
+147 13 ['Employee']
+99 14 ['Employee', 'Analyst']
+104 14 None
+107 14 ['Employee', 'Analyst Risk Management']
+109 14 ['Trader']
+118 14 ['Trader']
+122 14 None
+149 14 ['Employee', 'Specialist']
+23 15 ['Vice President']
+69 15 ['Director']
+72 15 ['Vice President', 'Enron Online']
+49 16 ['Trader']
+90 16 None
+96 16 ['Employee']
+97 16 ['Employee', 'Senior Analyst Cash']
+98 16 ['Trader']
+100 16 ['Employee', 'Cash Analyst']
+101 16 None
+102 16 ['Employee', 'Sr.Specialist']
+103 16 ['Director']
+105 16 None
+0 17 ['N/A']
+31 17 ['Vice President', 'Regulatory Affairs']
+41 17 ['Director', 'Pipeline Business']
+48 17 ['Vice President', 'Also Chief Financial Officer and Treasurer']
+51 17 ['President', 'Enron Gas Pipeline']
+57 17 ['Vice President']
+61 17 ['N/A']
+10 18 ['Employee', 'Government Relation Executive']
+8 19 ['N/A']
+106 20 None
+19 21 ['President']
+135 21 ['Vice President']

@@ -1,0 +1,13 @@
+2 0 Network Geometry
+3 0 Algorithmic fairness
+4 0 SINM (Stat Inference for Network Models)
+5 0 Understudied Networks in Computational Social Science
+6 0 TopoNets
+7 0 HISTONET
+8 0 NetSciEd
+9 0 EpiMob
+10 0 MIX-NEXT (Multiscale networks)
+11 0 FRIENDS (signed edges)
+0 1 FLSCN  (Supply Chain)
+1 1 FinEcoNets
+12 1 Criminal Complexity

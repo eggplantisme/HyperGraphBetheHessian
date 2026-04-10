@@ -1,0 +1,14 @@
+5 0 Software and Data to support Network Science
+6 0 Women in Network Science
+9 0 Science of Science
+10 0 Sustainable Developments Goals
+13 0 DAGshop
+0 1 Science of Connections: Urban Mobility and Health
+1 1 Network Neuroscience
+4 1 HONS(Higher Order and AI)
+7 1 Physical networks
+11 1 Net4Health
+12 1 NetBioMed
+2 2 TENET (Temporal and Evolving Networks)
+3 2 CPIN (Critical Phenomena in Networks)
+8 2 NetRG (Renomalization)

@@ -1,0 +1,15 @@
+Bussiness 0(in state CA, detected into group 449 and assumed to be state PA) included hyperedge:
+Bussiness 1(in state MO, detected into group 449 and assumed to be state PA) included hyperedge:
+	 hyperedge 1202 with order [922] include bussiness: MO:814 IL:105 PA:3 
+	 hyperedge 2619 with order [90] include bussiness: MO:87 IN:1 IL:1 TN:1 
+	 hyperedge 5298 with order [120] include bussiness: MO:119 IL:1 
+	 hyperedge 27823 with order [11] include bussiness: MO:11 
+	 hyperedge 31457 with order [7] include bussiness: MO:7 
+	 hyperedge 84798 with order [16] include bussiness: MO:16 
+	 hyperedge 164315 with order [4] include bussiness: MO:4 
+	 hyperedge 343744 with order [4] include bussiness: MO:4 
+	 hyperedge 428669 with order [4] include bussiness: MO:4 
+	 hyperedge 486666 with order [3] include bussiness: MO:3 
+	 hyperedge 594075 with order [2] include bussiness: MO:2 
+	 hyperedge 658721 with order [2] include bussiness: MO:2 
+	 hyperedge 702875 with order [2] include bussiness: MO:1 IL:1 

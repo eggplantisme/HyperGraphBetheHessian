@@ -1,0 +1,13 @@
+0 0 FLSCN  (Supply Chain)
+1 0 FinEcoNets
+12 0 Criminal Complexity
+2 1 Network Geometry
+3 1 Algorithmic fairness
+4 1 SINM (Stat Inference for Network Models)
+6 1 TopoNets
+10 1 MIX-NEXT (Multiscale networks)
+5 2 Understudied Networks in Computational Social Science
+7 2 HISTONET
+8 2 NetSciEd
+9 2 EpiMob
+11 2 FRIENDS (signed edges)

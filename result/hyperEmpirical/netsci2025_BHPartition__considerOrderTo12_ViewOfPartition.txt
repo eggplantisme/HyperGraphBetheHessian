@@ -1,0 +1,28 @@
+0 0 FLSCN  (Supply Chain)
+1 0 Women in Network Science
+2 0 FinEcoNets
+7 0 Criminal Complexity
+9 0 Sustainable Developments Goals
+10 0 Science of Connections: Urban Mobility and Health
+11 0 Science of Science
+13 0 Software and Data to support Network Science
+14 0 Algorithmic fairness
+17 0 Net4Health
+23 0 Understudied Networks in Computational Social Science
+24 0 EpiMob
+25 0 DAGshop
+26 0 HISTONET
+27 0 NetSciEd
+3 1 NetBioMed
+4 1 Network Neuroscience
+5 1 Network Geometry
+6 1 Physical networks
+8 1 Modelling dynamic networks
+12 1 HONS(Higher Order and AI)
+15 1 TENET (Temporal and Evolving Networks)
+16 1 FRIENDS (signed edges)
+18 1 MIX-NEXT (Multiscale networks)
+19 1 SINM (Stat Inference for Network Models)
+20 1 TopoNets
+21 1 NetRG (Renomalization)
+22 1 CPIN (Critical Phenomena in Networks)

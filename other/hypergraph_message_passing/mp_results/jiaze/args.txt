@@ -1,0 +1,21 @@
+real_dataset None
+hye_file ./other/hypergraph_message_passing/data/jiaze_synthetic/amiexp_n=100_q=2_d=10_Ks=(2, 3)_epsilon=0.4_times=8_hgraph.txt
+pickle_file None
+save_dir other\hypergraph_message_passing\mp_results\jiaze
+max_hye_size None
+hye_sizes [2, 3]
+N None
+K 2
+n ./other/hypergraph_message_passing/data/jiaze_synthetic/amiexp_n=100_q=2_d=10_Ks=(2, 3)_epsilon=0.4_times=8_parameter.npz
+p ./other/hypergraph_message_passing/data/jiaze_synthetic/amiexp_n=100_q=2_d=10_Ks=(2, 3)_epsilon=0.4_times=8_parameter.npz
+train_rounds 1
+em_iter 1
+em_thresh 1e-05
+mp_iter 2000
+mp_thresh 1e-05
+mp_patience 50
+dirichlet_init_alpha None
+dropout 0.99
+n_jobs -1
+seed 123
+logging INFO
